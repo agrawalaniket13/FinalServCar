@@ -1,0 +1,183 @@
+{
+  "users": [
+    {
+      "email": "ani@gmail.com",
+      "password": "ani123",
+      "uname": "ani",
+      "uid": "UE0MuJ13EzZyqFTZvM6B0w6hVDf1",
+      "id": 1
+    },
+    {
+      "email": "yashtech@gmail.com",
+      "password": "yashtech",
+      "uname": "yashtech",
+      "uid": "5ivVwl9NxpQ2ONOu0mHDD3VJHFC3",
+      "id": 2
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "uname": "admin",
+      "uid": "aLdk55i8QYZS7Jxkz3bDM9wkTFG3",
+      "id": 3
+    },
+    {
+      "email": "abhi@gmail.com",
+      "password": "abhi123",
+      "uname": "abhishek",
+      "uid": "h62c35TN2UWCWalBNggajqOBEx62",
+      "id": 4
+    }
+  ],
+  "mechanics": [
+    {
+      "email": "ram@gmail.com",
+      "password": "ram123",
+      "name": "ram",
+      "id": 1
+    },
+    {
+      "email": "shyam@gmail.com",
+      "password": "shyam123",
+      "name": "shyam",
+      "id": 2
+    },
+    {
+      "email": "sunny@gmail.com",
+      "password": "sunny123",
+      "name": "suny",
+      "id": 3
+    },
+    {
+      "email": "ramu@gmail.com",
+      "password": "ramu123",
+      "name": "ramu",
+      "id": 4
+    }
+  ],
+  "vehicleCategory": [
+    {
+      "type": "SUV",
+      "description": "SUV description",
+      "details": "SUV Details",
+      "id": 11001
+    },
+    {
+      "id": 11002,
+      "type": "HatchBack",
+      "description": "Hatchback description",
+      "details": "Hatchback Details"
+    },
+    {
+      "id": 11003,
+      "type": "Sedan",
+      "description": "Sedan description",
+      "details": "Sedan Details"
+    },
+    {
+      "type": "LUV",
+      "description": "LUV description",
+      "details": "LUV Details",
+      "id": 11004
+    },
+    {
+      "type": "CS",
+      "description": "CS Description",
+      "details": "CS Details",
+      "id": 11005
+    }
+  ],
+  "services": [
+    {
+      "serviceName": "Maintenance Service A",
+      "description": "Regular Service A Description",
+      "status": false,
+      "vehicleNumber": "MP09AB1111",
+      "bookDate": "03/01/2023",
+      "cost": 2500,
+      "mechanic": "suny",
+      "vehicle": "HatchBack",
+      "id": 1
+    },
+    {
+      "serviceName": "Full Service BB",
+      "description": "Full Car Service carried out in for those who travel 30000kms per year",
+      "status": false,
+      "vehicleNumber": "MP-09-WX-4162",
+      "bookDate": "30/01/2023",
+      "cost": 11000,
+      "mechanic": "shyam",
+      "vehicle": "SUV",
+      "userId": "ani@gmail.com",
+      "id": 2
+    },
+    {
+      "serviceName": "Washing & Check-up",
+      "description": "Wash for Car and normal check up",
+      "status": false,
+      "vehicleNumber": "mp-09-CE-2981",
+      "bookDate": "30/01/2023",
+      "cost": 3000,
+      "mechanic": "shyam",
+      "vehicle": "SUV",
+      "userId": "ani@gmail.com",
+      "id": 3
+    }
+  ],
+  "offeredServices": [
+    {
+      "id": 2,
+      "serviceName": "Full Service BB",
+      "serviceDescription": "Full Car Service carried out in for those who travel 30000kms per year",
+      "servicePrice": 11000
+    },
+    {
+      "id": 3,
+      "serviceName": "Major Service CCC",
+      "serviceDescription": "Major Car Service carried out in for those who travel 45000kms per year",
+      "servicePrice": 18000
+    },
+    {
+      "id": 4,
+      "serviceName": "Washing & Check-up",
+      "serviceDescription": "Wash for Car and normal check up",
+      "servicePrice": 3000
+    },
+    {
+      "id": 5,
+      "serviceName": "Damage Repair",
+      "serviceDescription": "Car repair based on damage total price will be based on work done + basic",
+      "servicePrice": 3000
+    },
+    {
+      "id": 6,
+      "serviceName": "Other Service",
+      "serviceDescription": "Customized Service based on user requirement, Charges will be based on work done + basic",
+      "servicePrice": 2000
+    }
+  ],
+  "enquiry": [
+    {
+      "id": 1,
+      "name": "Aniket Agrawal",
+      "email": "ani@gmail.com",
+      "phoneno": 7263641826,
+      "details": "want to know the offers"
+    },
+    {
+      "name": "enquiry try",
+      "email": "enquiry",
+      "phoneno": "8354773648",
+      "details": "all type of enquiry valid",
+      "id": 2
+    },
+    {
+      "name": "qwertyuio",
+      "email": "qwe@gmail.com",
+      "phoneno": "1234567890",
+      "details": "qwertyuiopasdfghjklzxcvbnm",
+      "userId": "ani@gmail.com",
+      "id": 3
+    }
+  ]
+}

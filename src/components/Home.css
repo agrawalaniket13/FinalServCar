@@ -1,0 +1,319 @@
+.pic-title{
+
+    text-align: left;
+    line-height: 30px;
+    letter-spacing: 0px;
+    font-weight: 700;
+    font-size: 30px;
+    border-color: rgb(255, 255, 255);
+    border-style: none;
+    margin: 0px;
+    border-radius: 0px;
+    padding: 0px;
+}
+.whyus{
+
+    font-size: 2.494rem;
+    font-weight: bold;
+    color: black;
+    line-height: 0.88em;
+    padding: 50px;
+}
+
+.whyuspara{
+
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-left: 26%;
+    text-align: left;
+    line-height: 30px;
+    letter-spacing: 0px;
+    font-weight: 700;
+    font-size: 30px;
+    border-color: rgb(255, 255, 255);
+    border-style: none;
+    
+    border-radius: 0px;
+    padding: 0px;
+    
+}
+.whyusparas{
+
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: left;
+    line-height: 30px;
+    letter-spacing: 0px;
+    font-weight: 700;
+    font-size: 30px;
+    border-color: rgb(255, 255, 255);
+    border-style: none;
+    
+    border-radius: 0px;
+    padding: 0px;
+    
+}
+.chooseusdiv{
+    position: relative;
+}
+
+#howworkimage{
+margin-top: 75px;
+
+}
+#p1{
+
+   
+    text-transform: none;
+    text-align: center;
+    font-family: inherit;
+    font-size: 100%;
+    line-height: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    word-wrap: break-word;
+    color: black;
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+    border: none;
+    width: 75px;
+}
+#p2{
+
+   
+    text-transform: none;
+    text-align: center;
+    font-family: inherit;
+    font-size: 100%;
+    line-height: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    word-wrap: break-word;
+    color: black;
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+    border: none;
+    width: 75px;
+}
+#p3{
+
+   
+    text-transform: none;
+    text-align: center;
+    font-family: inherit;
+    font-size: 100%;
+    line-height: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    word-wrap: break-word;
+    color: black;
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+    border: none;
+    width: 75px;
+}
+#p4{
+
+   
+    text-transform: none;
+    text-align: center;
+    font-family: inherit;
+    font-size: 100%;
+    line-height: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    word-wrap: break-word;
+    color: black;
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+    border: none;
+    width: 75px;
+}
+#p5{
+
+   
+    text-transform: none;
+    text-align: center;
+    font-family: inherit;
+    font-size: 100%;
+    line-height: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    word-wrap: break-word;
+    color: black;
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+    border: none;
+    width: 75px;
+}
+#p6{
+
+   
+    text-transform: none;
+    text-align: center;
+    font-family: inherit;
+    font-size: 100%;
+    line-height: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    word-wrap: break-word;
+    color: black;
+    max-width: 100%;
+    height: auto;
+    vertical-align: top;
+    border: none;
+    width: 75px;
+}
+
+.divchooseus{
+
+    padding-top: 1rem!important;
+}
+#para1{
+
+    font-weight: bold;
+    color: black;
+}
+#para2{
+
+    font-weight: bold;
+    padding: 10px;
+    color: black;
+}
+#para3{
+
+    font-weight: bold;
+    color: black;
+}
+#para4{
+
+    font-weight: bold;
+    color: black;
+}
+#para5{
+
+    font-weight: bold;
+    color: black;
+}
+#para6{
+
+    font-weight: bold;
+    color: black;
+}
+#para11{
+
+    font-weight: bold;
+    color: black;
+}
+#para12{
+
+    font-weight: bold;
+    padding: 10px;
+    color: black;
+}
+#para13{
+
+    font-weight: bold;
+    color: black;
+}
+#para14{
+
+    font-weight: bold;
+    color: black;
+}
+
+
+#howitworksmaindiv{
+
+    position: absolute;
+    /* color: blue; */
+    left:26%
+}
+.carouseldiv{
+    
+    position: absolute;
+    margin: 10% 20% 20% 20%;
+    color:black;
+    
+}
+#howworkbottomdiv{
+margin-top:  -300px; 
+margin-left: 215px;
+
+
+}
+
+
+#underdiv1{
+    border: 2px solid #007580;
+    border-radius: 20px;
+    
+    margin: 10px 10px 10px 10px;
+    color: white;
+}
+#underdiv2{
+    border: 2px solid  #007580;
+    border-radius: 20px;
+    
+    margin: 10px 10px 10px 10px;
+    color: white
+}
+#underdiv3{
+    border: 2px solid  #007580;
+    border-radius: 20px;
+   
+    margin: 10px 10px 10px 10px;
+    color: white
+}
+#underdiv4{
+    border: 2px solid  #007580;
+    border-radius: 20px;
+    
+    margin: 10px 10px 10px 10px;
+    color: white
+}
+
+
+#footer{
+
+background-color: whitesmoke;
+padding-top: 50px;
+
+}
+#footerrightside{
+    
+   margin-top: 0px;
+}
+#footerleftside{
+    
+    margin-top: 0px;
+}
+.headings{
+
+    margin-left: 115px;
+
+    font-size:52px;
+
+    font-weight: 700;
+
+    color:white;
+
+    margin-top: 150px;
+}
+.paras{
+
+    margin-left: 115px;
+
+    font-size: small;
+
+    color: white;
+
+    font-weight: 500;
+
+    margin-top: 10px;
+}
